@@ -4,4 +4,4 @@ title: "STA130 Course Website"
 
 All the STA130 course content in one place.
 
-so much fun
+so much fun!
